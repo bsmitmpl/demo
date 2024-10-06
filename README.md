@@ -6,3 +6,7 @@ Bhuvi
 ```
 Sanga
 ```
+
+```
+Manipal
+```
