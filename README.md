@@ -1,10 +1,6 @@
 This is a README
 ```
-Bhuvi
-```
-
-```
-Sanga
+Bhuvi Sanga
 ```
 
 ```
